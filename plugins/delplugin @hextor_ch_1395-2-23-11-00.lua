@@ -9,7 +9,7 @@ end
 return { 
 patterns = {
  
-'^[!/](delplugin) (.*)$' 
+'^(delplugin) (.*)$' 
 },
 run = run,
 }
